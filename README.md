@@ -3,4 +3,4 @@ REDCap MySQL Python Program
 
 Initial upload of documentation.
 
-See 'Documentation' for instructions.
+See 'Documentation.docx' for instructions.
